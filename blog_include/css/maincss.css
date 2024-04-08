@@ -1,0 +1,35 @@
+body{
+    background-image: url("../images/background_01.jpg");
+    font-size:15pt;
+}
+
+.divbody{
+    width:80%;
+    margin: 0 10% 0 10%;
+    padding: 0 1% 0 1%;
+    background-color:white;
+}
+
+.linkbutton:link, .linkbutton:visited, a.linkbutton:hover, a.linkbutton:active{
+    color:white;
+    padding: 10px 50px 10px 10px;
+    text-decoration: none;
+}
+
+#myphoto{
+    width: 30px;
+    height:50px;
+}
+
+#myname{
+    text-align:center;
+}
+
+.divmenu{
+    height:40px;
+    background-color: #333333;
+    margin: 0 10px 0 10px;
+    display: flex;
+    align-items: center;
+}
+
