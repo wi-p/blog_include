@@ -3,6 +3,11 @@ body{
     font-size:15pt;
 }
 
+.footer{
+    height:100px;
+    text-align: center;
+}
+
 .divbody{
     width:80%;
     margin: 0 10% 0 10%;
