@@ -29,8 +29,9 @@ body{
 }
 
 #myphoto{
-    width: 30px;
-    height:50px;
+    width: 160px;
+    height:180px;
+    margin-top:20px;
 }
 
 .maintitle{
