@@ -1,6 +1,3 @@
-//  WELCOME MESSAGE   //
-
-
 //      GET THINGS FROM CLIENT SIDE     //
 
 function getWords(){
